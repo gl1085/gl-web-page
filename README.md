@@ -1,17 +1,17 @@
 <a href="https://precedent.dev">
-  <img alt="Precedent – Building blocks for your Next project" src="https://precedent.dev/opengraph-image">
-  <h1 align="center">Precedent</h1>
+  <img alt="Precedent – Building blocks for your Next project" src="https://i.imgur.com/xiF9YbL.png">
+  <h1 align="center"> Match Volunteers to Organizer</h1>
 </a>
 
 <p align="center">
-  Building blocks for your Next project
+   Match the Volunteers to the Organizer
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/steventey">
+  <a href="https://twitter.com/sgl5308">
     <img src="https://img.shields.io/twitter/follow/steventey?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
   </a>
-  <a href="https://github.com/steven-tey/precedent">
+  <a href="https://github.com/gl1085/gl-web-page">
     <img src="https://img.shields.io/github/stars/steven-tey/precedent?label=steven-tey%2Fprecedent" alt="Precedent repo star count" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 ## Introduction
 
-Precedent is an opinionated collection of components, hooks, and utilities for your Next.js project.
+This platform is to match the volunteers with the organizer with just a click! This will speed up the process of having volunteers to contribute to the areas which need their skills most!
 
 ## One-click Deploy
 
@@ -87,4 +87,4 @@ https://user-images.githubusercontent.com/28986134/212368288-12f41e37-aa8c-4e0a-
 
 ## Author
 
-- Steven Tey ([@steventey](https://twitter.com/steventey))
+- gl ([@sgl5308](https://twitter.com/sgl5308))
